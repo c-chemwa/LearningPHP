@@ -20,4 +20,7 @@
     //String
     $Name = 'Caleb';
     echo $Name;
+
+    $Number = 2;
+    echo $Number;
 ?>
