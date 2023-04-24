@@ -12,7 +12,7 @@
 
   //print can only print once(one arguement)
 
-  //print 'hey';
+  #print 'hey';
 
   //print_r() prints single values and arrays
   //print_r([1,2,3]);
